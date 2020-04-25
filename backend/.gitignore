@@ -1,0 +1,2 @@
+# tudo que estiver abaixo será ignorado pelo git
+/node_modules
